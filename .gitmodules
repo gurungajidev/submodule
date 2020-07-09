@@ -1,0 +1,3 @@
+[submodule "webinar-backend"]
+	path = webinar-backend
+	url = https://github.com/gurungajidev/webinar-backend.git
