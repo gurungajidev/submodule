@@ -1,3 +1,6 @@
 [submodule "webinar-backend"]
 	path = webinar-backend
 	url = https://github.com/gurungajidev/webinar-backend.git
+[submodule "webinar-frontend"]
+	path = webinar-frontend
+	url = https://github.com/gurungajidev/webinar-frontend.git
